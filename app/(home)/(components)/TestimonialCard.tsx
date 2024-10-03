@@ -6,7 +6,7 @@ import { Star } from 'lucide-react'
 const TestimonialCard = () => {
     return (
 
-        <div className='transform -translate-x-[40%]'>
+        <div className=''>
             <div className='flex rounded-md shadow-md border'>
                 <div className='pb-6'>
                     <Image src={img} alt='car' width={397} height={400} />
